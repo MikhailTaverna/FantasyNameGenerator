@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\FantasyNameGenerator\FantasyNameGenerator\bin\Debug\FantasyNameGenerator.exe.config
+C:\Users\Admin\source\repos\FantasyNameGenerator\FantasyNameGenerator\bin\Debug\FantasyNameGenerator.exe
+C:\Users\Admin\source\repos\FantasyNameGenerator\FantasyNameGenerator\bin\Debug\FantasyNameGenerator.pdb
+C:\Users\Admin\source\repos\FantasyNameGenerator\FantasyNameGenerator\obj\Debug\FantasyNameGenerator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FantasyNameGenerator\FantasyNameGenerator\obj\Debug\FantasyNameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FantasyNameGenerator\FantasyNameGenerator\obj\Debug\FantasyNameGenerator.exe
+C:\Users\Admin\source\repos\FantasyNameGenerator\FantasyNameGenerator\obj\Debug\FantasyNameGenerator.pdb
